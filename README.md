@@ -1,4 +1,3 @@
-```markdown
 # Block
 
 Block is envisioned as an open source Node.js package (for TypeScript) that will provide a modular, block-based approach to building applications. Inspired by systems like Minecraft, Block will let developers write single-purpose function files ("blocks"), register them via a JSON configuration, and then compose them visually into complete applications.
@@ -46,4 +45,3 @@ If you’d like to contribute, you can help by:
 ---
 
 Thank you for considering a contribution to Block. Let’s build something awesome together!
-```
